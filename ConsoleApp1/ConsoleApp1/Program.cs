@@ -14,7 +14,7 @@ namespace ConsoleApp1
             int x = 5;
             x++;
             Console.WriteLine("изи изи");
-            Console.ReadKey();
+            Console.ReadKey(); ;
         }
     }
 }
